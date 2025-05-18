@@ -17,3 +17,6 @@ print(df.shape)
 
 # Ver el tipo de datos de cada columna
 print(df.dtypes)
+
+# Ver las estadisticas del DataFrame
+print(df.describe())
