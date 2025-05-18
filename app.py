@@ -14,3 +14,6 @@ print(df.head())
 
 # Ver las dimensiones del DataFrame
 print(df.shape)
+
+# Ver el tipo de datos de cada columna
+print(df.dtypes)
