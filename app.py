@@ -11,3 +11,6 @@ df = pd.DataFrame(info_pais)
 
 # Ver las primera filas del DataFrame
 print(df.head())
+
+# Ver las dimensiones del DataFrame
+print(df.shape)
